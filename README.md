@@ -22,4 +22,4 @@
 <hr/>
 
 <h4>Résultat:</h4>
-<a href="https://anthonyaes.github.io/projectNCAM/">Github Pages</a>
+<a href="https://anthonyaes.github.io/projectNCAM/" target="_blank">Github Pages</a>
